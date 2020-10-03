@@ -11,14 +11,14 @@ Result shows that hardware implementation is at least 30x faster than the softwa
 
 Open a terminal on your PYNQ board and run:
 
->sudo pip3 install --upgrade git+https://github.com/sensei12/CountNDA_1024/pynq_x_filter.git
+>sudo pip3 install --upgrade git+https://github.com/sensei12/CountDNA_1024.git
 
 >or
 
 >sudo pip3 install --upgrade .
 
 
-Currently this repository is compatible with PYNQ image v2.5.
+Currently this repository is compatible with [PYNQ image v2.5](https://http://www.pynq.io/board.html).
 
 # Note
 
