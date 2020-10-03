@@ -1,5 +1,5 @@
-# CountDNA_1024
-Count DNA nucleotides
+# CountDNA
+Frequency count of DNA nucleotides
 
 This repository contains the IP to count the number of adenine (A), cytosine(C), guanine(G) and thymine(T) nucleotides in the DNA reference string of length 1024. 
 
