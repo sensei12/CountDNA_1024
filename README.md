@@ -3,7 +3,7 @@ Frequency count for DNA nucleotides
 
 This repository contains the IP to count the number of adenine (A), cytosine(C), guanine(G) and thymine(T) nucleotides in the DNA reference string of length 1024. 
 
-The python notebook contains both software and hardware (IP driver) implementation. 
+The jupyter notebook contains both software and hardware (IP driver) implementation. 
 
 Result shows that hardware implementation is faster than the software implementation.
 
