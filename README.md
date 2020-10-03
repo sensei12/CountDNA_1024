@@ -9,8 +9,6 @@ Result shows that hardware implementation is at least 30x faster than the softwa
 
 # Quick Start
 
----
-
 Open a terminal on your PYNQ board and run:
 
     sudo pip3 install --upgrade git+https://github.com/sensei12/CountDNA_1024.git
