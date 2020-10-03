@@ -1,5 +1,5 @@
-# CountDNA
-Frequency count of DNA nucleotides
+# CountDNA accelerator
+Frequency count for DNA nucleotides
 
 This repository contains the IP to count the number of adenine (A), cytosine(C), guanine(G) and thymine(T) nucleotides in the DNA reference string of length 1024. 
 
@@ -9,7 +9,7 @@ Result shows that hardware implementation is at least 30x faster than the softwa
 
 Below the Vivado block design diagram.  Note that the count IP is a hierarchical block
 
-! [system design] (/images/CDNAsys.png "CountDNA vivado design")
+! [system design] (CDNAsys.png "CountDNA vivado design")
 
 # Quick Start
 
