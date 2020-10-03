@@ -7,11 +7,11 @@ The python notebook contains both software implementation and hardware (IP drive
 
 Result shows that hardware implementation is at least 30x faster than the software implementation.
 
-Below is the Vivado block design diagram.  Note that the count IP is a hierarchical block.
+Below is the Vivado block design diagram.  Note that *counting* is a hierarchical block.
 
 ![system design](/images/CDNAsys.png "CountDNA vivado design")
 
-The hierarchical block which contains the CountDNA IP and the DMA is shown below.
+The *counting* hierarchical block contains the CountDNA IP and the DMA IP as shown below.
 ![IP block](/images/CDNAIP.png "IP block vivado design")
 
 # Quick Start
