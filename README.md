@@ -7,6 +7,10 @@ The python notebook contains both software implementation and hardware (IP drive
 
 Result shows that hardware implementation is at least 30x faster than the software implementation.
 
+Below the Vivado block design diagram.  Note that the count IP is a hierarchical block
+
+![system design] (/images/CDNAsys.png)
+
 # Quick Start
 
 Open a terminal on your PYNQ board and run:
