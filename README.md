@@ -9,7 +9,7 @@ Result shows that hardware implementation is at least 30x faster than the softwa
 
 Below the Vivado block design diagram.  Note that the count IP is a hierarchical block
 
-![system design] (/images/CDNAsys.png)
+! [system design] (/images/CDNAsys.png "CountDNA vivado design")
 
 # Quick Start
 
